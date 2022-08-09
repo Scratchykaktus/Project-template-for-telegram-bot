@@ -1,1 +1,3 @@
-from . import start
+from .start import dp
+
+__all__ = ['dp']
